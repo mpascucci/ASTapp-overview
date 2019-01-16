@@ -6,10 +6,11 @@ chapter: false
 draft: false
 ---
 
-These plots are extracted from the [AMR review](https://amr-review.org/Publications.html).
-
 ### Comparative death projection
 ![death_per_year](https://amr-review.org/sites/default/files/December%20report%20-%20comparative%20deaths.jpg?classes=shadow&width=500px)
 
 ### World mortality projection
 ![death_per_year](https://amr-review.org/sites/default/files/World_Map.jpg?classes=shadow&width=500px)
+
+___
+These plots are taken from this[AMR review](https://amr-review.org/Publications.html).

@@ -4,21 +4,21 @@
 	"title": "Introduction",
 	"tags": [],
 	"description": "",
-	"content": " Discover the context and the issue that ASTapp addresses.\nAntimicrobial Resistance Antimicrobial Resistance (AMR) is nowadays a seriously growing concern for public health, as stated by the World Health Organization (WHO AMR review). In 50 years it could become the first cause of death all over the world (10 million of death every year in 2050 according the O’Neill report), thereby surpassing cancer.\nThe access to a good diagnosis of bacterial deseases is not egalitarian across the globe, leaving some populations with mistreated infections and antibiotic misuse.\n  The antibiogram Antibiograms are an easy-to-implement test for detecting bacteria resistances to antibiotics. This video carefully explains the principle of such test.\n  The Solution ASTapp: a diagnosis tool for everybody Astapp addresses several of the strategic objectives identified by the World Health organization (WHO) as a global action plan to tackle Antimicrobial resistance. By giving a broad and open access to a better diagnosis, ourproject can:\n \u0026ldquo;strengthen knowledge through surveillance and research\u0026rdquo;\n \u0026ldquo;optimize the use of antimicrobial agents\u0026rdquo;\n  Our application has also an educational vocation: througout the automated antibiogram interpretation, it will explain its choices to the user.\n"
+	"content": " Our project aims to fight the spread of antimicrobial resistance and grant equal access to proper diagnosis all over the word. Discover here ASTapp.\nAntimicrobial Resistance As stated by the World Health Organization (WHO AMR review), Antimicrobial Resistance (AMR) is a major public health concern, In 50 years it could become the first cause of death all over the world (10 million of death every year in 2050 according the O’Neill report, thereby surpassing cancer.\nThe access to a good diagnosis of bacterial deseases is usually not available in low-resource settings (LRS). This leads to non appropriate patient treatment and to the selection of resistant strains because of the non rational use of broad spectrum antibiotics.\n  The antibiogram Antibiograms are an easy-to-implement test for detecting bacteria resistances to antibiotics. This video carefully explains the principle.   The raw result of an antibiogram needs an interpratation, which in turn requires highly specialized human resources (microbiologists, a rare resource in LRS).\nThe Solution ASTapp: a diagnosis tool for everybody Astapp addresses several of the strategic objectives identified by the World Health organization (WHO) as a global action plan to tackle Antimicrobial resistance. By giving a broad and open access to a better diagnosis, ourproject can:\n \u0026ldquo;strengthen knowledge through surveillance and research\u0026rdquo;\n \u0026ldquo;optimize the use of antimicrobial agents\u0026rdquo;\n  Our application has also an educational vocation: througout the automated antibiogram interpretation, it will explain its choices to the user.\n"
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/suppl/oneill/",
 	"title": "Danger of AMR",
 	"tags": [],
 	"description": "",
-	"content": " These plots are extracted from the AMR review.\nComparative death projection World mortality projection "
+	"content": " Comparative death projection World mortality projection These plots are taken from thisAMR review.\n"
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/suppl/target/",
 	"title": "Target population",
 	"tags": [],
 	"description": "",
-	"content": "The first beneficiary of this project are MSF laboratories on the field, represented on the following map.\nNevertheless, the application could be used in any hospital, granting a more egalitarian access to the diagnosis of bacterial infections.\n"
+	"content": "The first beneficiary of this project are the MSF laboratories on the field, represented on the following map.\nNevertheless, the application will be free and expcially thought for low-resource settings, thereby granting a more egalitarian access to the diagnosis of bacterial infections, worldwide.\nLocation of the MSF field laboratories  "
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/suppl/comparison/",
@@ -60,14 +60,14 @@
 	"title": "Supplementary info",
 	"tags": [],
 	"description": "",
-	"content": " Appendix Supplementary information Know more about the ASTapp project.\n"
+	"content": " Appendix Supplementary information Know more about the ASTapp project.\n Danger of AMR Target population Danger of AMR Danger of AMR  "
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/",
 	"title": "ASTapp",
 	"tags": [],
 	"description": "",
-	"content": " A free diagnostic tool for antibiotic resistance testing. ASTapp is a project of the MSF Foundation. It aims do develop an application for portable devices helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings.\nHow it works The resistance of a bacteria to antibiotics is tested via antibiograms.\nASTapp takes a picture of an antibiogram and gives an interpreted result of the antibiotic susceptibility of the observer bacteria colony, using image processing and artificial intelligence.\nThis result is used by clinicians to prescribe the right antibiotics.\n"
+	"content": "A free diagnostic tool for antibiotic resistance testing. ASTapp is a project of the MSF Foundation. It aims do develop an application for portable devices helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings.\nHow it works The resistance of a bacteria to antibiotics is tested via antibiograms.\nASTapp takes a picture of an antibiobram and provides advices for appropriate patients treatments, using image processing and artificial intelligence.\nThis result is used by clinicians to prescribe the right antibiotics.  \n"
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/about/",
