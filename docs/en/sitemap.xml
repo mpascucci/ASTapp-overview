@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/context/</loc>
+    <lastmod>2019-01-10T17:06:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/suppl/oneill/</loc>
+    <lastmod>2019-01-10T16:40:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/suppl/target/</loc>
+    <lastmod>2019-01-10T16:21:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/suppl/comparison/</loc>
+    <lastmod>2019-01-10T16:00:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/suppl/imgprotocol/</loc>
+    <lastmod>2019-01-10T16:40:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/workflow/</loc>
+    <lastmod>2019-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/examples/</loc>
+    <lastmod>2019-01-09T14:20:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/try/</loc>
+    <lastmod>2019-01-09T14:34:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/suppl/</loc>
+    <lastmod>2019-01-10T15:59:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mpascucci.github.io/ASTapp-overview/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mpascucci.github.io/ASTapp-overview/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/about/</loc>
+    <lastmod>2018-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mpascucci.github.io/ASTapp-overview/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mpascucci.github.io/ASTapp-overview/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mpascucci.github.io/ASTapp-overview/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mpascucci.github.io/ASTapp-overview/en/tags/"
+                />
+  </url>
+  
+</urlset>

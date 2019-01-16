@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/fr/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mpascucci.github.io/ASTapp-overview/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mpascucci.github.io/ASTapp-overview/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/fr/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mpascucci.github.io/ASTapp-overview/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mpascucci.github.io/ASTapp-overview/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mpascucci.github.io/ASTapp-overview/fr/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mpascucci.github.io/ASTapp-overview/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mpascucci.github.io/ASTapp-overview/fr/tags/"
+                />
+  </url>
+  
+</urlset>

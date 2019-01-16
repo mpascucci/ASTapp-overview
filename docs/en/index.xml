@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASTapp on Documentation for Hugo Learn Theme</title>
+    <link>https://mpascucci.github.io/ASTapp-overview/en/</link>
+    <description>Recent content in ASTapp on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mpascucci.github.io/ASTapp-overview/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Danger of AMR</title>
+      <link>https://mpascucci.github.io/ASTapp-overview/en/suppl/oneill/</link>
+      <pubDate>Thu, 10 Jan 2019 16:40:10 +0100</pubDate>
+      
+      <guid>https://mpascucci.github.io/ASTapp-overview/en/suppl/oneill/</guid>
+      <description> These plots are extracted from the AMR review.
+Comparative death projection World mortality projection </description>
+    </item>
+    
+    <item>
+      <title>Target population</title>
+      <link>https://mpascucci.github.io/ASTapp-overview/en/suppl/target/</link>
+      <pubDate>Thu, 10 Jan 2019 16:21:14 +0100</pubDate>
+      
+      <guid>https://mpascucci.github.io/ASTapp-overview/en/suppl/target/</guid>
+      <description>The first beneficiary of this project are MSF laboratories on the field, represented on the following map.
+Nevertheless, the application could be used in any hospital, granting a more egalitarian access to the diagnosis of bacterial infections.</description>
+    </item>
+    
+    <item>
+      <title>Existent solutions</title>
+      <link>https://mpascucci.github.io/ASTapp-overview/en/suppl/comparison/</link>
+      <pubDate>Thu, 10 Jan 2019 16:00:55 +0100</pubDate>
+      
+      <guid>https://mpascucci.github.io/ASTapp-overview/en/suppl/comparison/</guid>
+      <description> comparison table of existing solutions A fast comparison of some existent solutions for AMR automated/assisted diagnosis.
+  Free Open source offline phone/tablet Image reading Raw results Interpreted results   Commercial robots No No No No Yes Yes Yes   Web apps Yes No No Yes No Yes No   Smartphone apps Yes No Yes Yes No Yes No   AntibiogramJ Yes Yes Yes No Yes Yes No   ASTapp Yes Yes Yes Yes Yes Yes Yes   </description>
+    </item>
+    
+    <item>
+      <title>Image acquisition protocol</title>
+      <link>https://mpascucci.github.io/ASTapp-overview/en/suppl/imgprotocol/</link>
+      <pubDate>Thu, 10 Jan 2019 16:40:58 +0100</pubDate>
+      
+      <guid>https://mpascucci.github.io/ASTapp-overview/en/suppl/imgprotocol/</guid>
+      <description>We have developped a simple image acquisition protocol to allow a more standardized picture acquisition that facilitates the automatic reading and minimizes the risk of errors. This protocol has been designed with simplicity in mind: it can be implemented with cardboard and simple material tipically available in every laboratory.
+]</description>
+    </item>
+    
+    <item>
+      <title>About ASTapp</title>
+      <link>https://mpascucci.github.io/ASTapp-overview/en/about/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mpascucci.github.io/ASTapp-overview/en/about/</guid>
+      <description> MSF Foundataion ASTapp is a project of the MSF Foundation
+Contacts:  Director: Clara Nordon ASTapp Development: Marco Pascucci  </description>
+    </item>
+    
+  </channel>
+</rss>
