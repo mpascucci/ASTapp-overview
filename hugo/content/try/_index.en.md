@@ -10,7 +10,7 @@ draft: false
 ### Still developing...
 {{% subscribe %}}
 <div style="text-align:center;">
-{{% bigbutton href="/ASTapp-overview/en/context/" %}}Let me know{{% /bigbutton %}}
+{{% bigbutton href="/ASTapp-overview/en/letmeknow/" %}}Let me know{{% /bigbutton %}}
 </div>
 
 ### Demo version
