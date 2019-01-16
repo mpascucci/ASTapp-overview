@@ -1,0 +1,85 @@
+baseURL = "https://mpascucci.github.io/ASTapp-overview/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+publishDir = "../docs"
+
+title = "Hugo Learn Documentation"
+theme = "hugo-theme-learn"
+themesdir = "./themes"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  editURL = ""
+  description = "A free diagnostic tool for antibiotic resistance testing."
+  author = "Marco Pascucci"
+  showVisitedLinks = false
+  disableBreadcrumb = false
+  disableNextPrev = false
+  themeVariant = "green"
+  disableLanguageSwitchingButton=true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "Documentation for Hugo Learn Theme"
+weight = 1
+languageName = "English"
+
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-home'></i> Home"
+url = "."
+weight = 11
+
+# [[Languages.en.menu.shortcuts]]
+# name = "<i class='fab fa-fw fa-github'></i> Github repo"
+# identifier = "ds"
+# url = "https://github.com/matcornic/hugo-theme-learn"
+# weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Screenshots"
+url = "./examples"
+weight = 11
+
+# [[Languages.en.menu.shortcuts]]
+# name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+# identifier = "hugodoc"
+# url = "https://gohugo.io/"
+# weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> About"
+url = "./about"
+weight = 30
+
+
+[Languages.fr]
+title = "Documentation du thème Hugo Learn"
+weight = 2
+languageName = "Français"
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Repo Github"
+identifier = "ds"
+url = "https://github.com/matcornic/hugo-theme-learn"
+weight = 10
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Vitrine"
+url = "/showcase"
+weight = 11
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Documentation Hugo"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[Languages.fr.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
+url = "/credits"
+weight = 30
