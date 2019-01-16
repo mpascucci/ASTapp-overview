@@ -21,7 +21,7 @@ The resistance of bacteria to antibiotics is tested via <a href="https://en.wiki
 Clinicians use these advices to prescribe the right antibiotics.
 
 <div style="text-align:center;">
-{{% bigbutton href="/ASTapp-overview/en/context/" %}}Know More <i class="fas fa-angle-double-right"></i>{{% /bigbutton %}}
+{{% bigbutton href="/ASTapp-overview/en/context/" %}}Learn More <i class="fas fa-angle-double-right"></i>{{% /bigbutton %}}
 </div>
 
 ### <i class="fas fa-hammer"></i> Under development...
