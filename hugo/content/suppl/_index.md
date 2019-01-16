@@ -12,7 +12,7 @@ draft: false
 
 Know more about the <b><span style="color:red;font-style: italic;">AST</span><span style="font-family:'Bradley Hand';">app</span></b> project.
 
-* [Danger of AMR](/ASTapp-overview/en/suppl/oneill/)
-* [Target population](/ASTapp-overview/en/suppl/target/)
-* [Danger of AMR](/ASTapp-overview/en/suppl/oneill/)
-* [Danger of AMR](/ASTapp-overview/en/suppl/oneill/)
+### [Danger of AMR](/ASTapp-overview/en/suppl/oneill/)
+### [Target population](/ASTapp-overview/en/suppl/target/)
+### [Existent solutions](/ASTapp-overview/en/suppl/comparison/)
+### [Image acquisition protocol](/ASTapp-overview/en/suppl/imgprotocol/)
