@@ -65,5 +65,16 @@ span.title {
 
 img.pictureOnColumn {
     margin:0 !important;
-    max-height:500px;
+    max-height: 500px;
+    min-width: 200px;
+}
+
+div.bigButton {
+    display: block;
+    color:darkgreen;
+    border:1px solid black;
+    padding: 0.5em;
+    margin:2em 0 2px 0;
+    font-weight: bold;
+    font-size: 2em;
 }

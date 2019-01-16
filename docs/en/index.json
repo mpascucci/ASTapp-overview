@@ -67,7 +67,7 @@
 	"title": "ASTapp",
 	"tags": [],
 	"description": "",
-	"content": "A free diagnostic tool for antibiotic resistance testing. ASTapp is a project of the MSF Foundation. It aims do develop an application for portable devices helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings.\nHow it works The resistance of a bacteria to antibiotics is tested via antibiograms.\nASTapp takes a picture of an antibiobram and provides advices for appropriate patients treatments, using image processing and artificial intelligence.\nThis result is used by clinicians to prescribe the right antibiotics.  \n"
+	"content": "A free diagnostic tool for antibiotic resistance testing. ASTapp is a project of the [MSF Foundation](https://fondation.msf.fr/en). It aims do develop an application for portable devices helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings. How it works The resistance of a bacteria to antibiotics is tested via [antibiograms](https://en.wikipedia.org/wiki/Antibiotic_sensitivity). ASTapp takes a picture of an antibiobram and provides advices for appropriate patients treatments, using image processing and artificial intelligence. This result is used by clinicians to prescribe the right antibiotics. KNOW MORE    \n"
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/about/",

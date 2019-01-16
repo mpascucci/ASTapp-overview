@@ -19,6 +19,13 @@ The resistance of a bacteria to antibiotics is tested via [antibiograms](https:/
 <b><span style="color:red;font-style: italic;">AST</span><span style="font-family:'Bradley Hand';">app</span></b> takes a picture of an antibiobram and provides advices for appropriate patients treatments, using image processing and artificial intelligence.
 
 This result is used by clinicians to prescribe the right antibiotics.
+
+<div style="text-align:center;">
+<a href="/ASTapp-overview/en/context/">
+<div class="bigButton">KNOW MORE</div>
+</a>
+</div>
+
 </div>
 <img class="pictureOnColumn" src="/ASTapp-overview/images/ASTapp_on_smartphone.jpeg?classes=shadow">
-<div>
+</div>
