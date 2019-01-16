@@ -8,7 +8,7 @@ draft: false
 ---
 ___
 Our project aims to fight the spread of antimicrobial resistance and grant equal access to proper diagnosis all over the word.
-Discover here <b><span style="color:red;font-style: italic;">AST</span><span style="font-family:'Bradley Hand';">app</span></b>.
+Discover here <span class="ast">AST</span><span class="app">app</span>.
 ___
 
 ## Antimicrobial Resistance
@@ -30,7 +30,7 @@ The raw result of an antibiogram needs an interpratation, which in turn requires
 
 ## The Solution
 
-### <b><span style="color:red;font-style: italic;">AST</span><span style="font-family:'Bradley Hand';">app</span></b>: a diagnosis tool for everybody
+### <span class="ast">AST</span><span class="app">app</span>: a diagnosis tool for everybody
 
 Astapp addresses several of the strategic objectives identified by the <b>[World Health organization (WHO)](https://www.who.int/antimicrobial-resistance/en/)</b> as a <b>[global action plan](https://www.who.int/antimicrobial-resistance/global-action-plan/en/)</b> to tackle Antimicrobial resistance.
 By giving a broad and open access to a better diagnosis, ourproject can:

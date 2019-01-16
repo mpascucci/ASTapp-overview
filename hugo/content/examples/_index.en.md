@@ -8,7 +8,7 @@ draft: false
 ---
 
 Some examples of antibiogram reading with
-<b><span style="color:red;font-style: italic;">AST</span><span style="font-family:'Bradley Hand';">app</span></b>.
+<span class="ast">AST</span><span class="app">app</span>.
 
 The following table shows some pictures of antibiograms, the reading of the image and the final susceptibility resut.
 

@@ -7,7 +7,14 @@ chapter: false
 draft: false
 ---
 
-### 1. Download our sample picture
+### Still developing...
+{{% subscribe %}}
+<div style="text-align:center;">
+{{% bigbutton href="/ASTapp-overview/en/context/" %}}Let me know{{% /bigbutton %}}
+</div>
+
+### Demo version
+**1. Download our sample picture**
 
 We have selected the image of an antibiogram you can use to test the application
 
@@ -17,14 +24,14 @@ The species of the bacteria in this antibiogram is *Escherichia Coli*
 
 
 
-### 2. Open ASTapp
+**2. Open ASTapp**
 
-1. Please use [Google Chrome](https://www.google.com/chrome/)
+- Please use [Google Chrome](https://www.google.com/chrome/)
 
-2. See the [workflow](../workflow) section for help.
+- See the [workflow](../workflow) section for help.
 
-3. Run {{% button href="https://stat.genopole.cnrs.fr/ASTweb" %}}ASTapp{{% /button %}}
+- Run {{% button href="https://stat.genopole.cnrs.fr/ASTweb" %}}ASTapp{{% /button %}}
 
-4. click on the camera icon and upload the sample image to start the analysis.
+- click on the camera icon and upload the sample image to start the analysis.
 
 

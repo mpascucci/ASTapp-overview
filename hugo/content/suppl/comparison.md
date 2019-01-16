@@ -62,7 +62,7 @@ A fast comparison of some existent solutions for AMR automated/assisted diagnosi
     <td class="tg-cmwg">No</td>
   </tr>
   <tr>
-    <td class="tg-1wig"><b><span style="color:red;font-style: italic;">AST</span><span style="font-family:'Bradley Hand';">app</span></b></td>
+    <td class="tg-1wig"><span class="ast">AST</span><span class="app">app</span></td>
     <td class="tg-d78e">Yes</td>
     <td class="tg-d78e">Yes</td>
     <td class="tg-d78e">Yes</td>

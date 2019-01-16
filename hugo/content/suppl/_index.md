@@ -10,7 +10,7 @@ draft: false
 ### Appendix
 # Supplementary information
 
-Know more about the <b><span style="color:red;font-style: italic;">AST</span><span style="font-family:'Bradley Hand';">app</span></b> project.
+Know more about the <span class="ast">AST</span><span class="app">app</span> project.
 
 ### [Danger of AMR](/ASTapp-overview/en/suppl/oneill/)
 ### [Target population](/ASTapp-overview/en/suppl/target/)

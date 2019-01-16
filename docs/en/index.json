@@ -53,7 +53,7 @@
 	"title": "Try ASTapp",
 	"tags": [],
 	"description": "",
-	"content": " 1. Download our sample picture We have selected the image of an antibiogram you can use to test the application\nThe species of the bacteria in this antibiogram is Escherichia Coli\n Download sample image  2. Open ASTapp  Please use Google Chrome\n See the workflow section for help.\n Run ASTapp   click on the camera icon and upload the sample image to start the analysis.\n  "
+	"content": " Still developing\u0026hellip; We are currently developing ASTapp. A first version will be released soon. If you want to be informed when the app will be ready, please click the follwing button. We will send you only one message. in the meanwhile, have a look at the DEMO vesion: Let me know  \nDemo version 1. Download our sample picture\nWe have selected the image of an antibiogram you can use to test the application\nThe species of the bacteria in this antibiogram is Escherichia Coli\n Download sample image  2. Open ASTapp\n Please use Google Chrome\n See the workflow section for help.\n Run ASTapp   click on the camera icon and upload the sample image to start the analysis.\n  "
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/suppl/",
@@ -63,11 +63,18 @@
 	"content": " Appendix Supplementary information Know more about the ASTapp project.\nDanger of AMR Target population Existent solutions Image acquisition protocol "
 },
 {
+	"uri": "https://mpascucci.github.io/ASTapp-overview/en/letmeknow/",
+	"title": "Let me know",
+	"tags": [],
+	"description": "",
+	"content": " Still developing\u0026hellip; We are currently developing ASTapp. A first version will be released soon, stay tuned!\n  (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id=\"typef_orm\", b=\"https://embed.typeform.com/\"; if(!gi.call(d,id)) { js=ce.call(d,\"script\"); js.id=id; js.src=b+\"embed.js\"; q=gt.call(d,\"script\")[0]; q.parentNode.insertBefore(js,q) } })()  powered by Typeform  --   (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id=\"typef_orm\", b=\"https://embed.typeform.com/\"; if(!gi.call(d,id)) { js=ce.call(d,\"script\"); js.id=id; js.src=b+\"embed.js\"; q=gt.call(d,\"script\")[0]; q.parentNode.insertBefore(js,q) } })()  powered by Typeform  "
+},
+{
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/",
 	"title": "ASTapp",
 	"tags": [],
 	"description": "",
-	"content": "A free diagnostic tool for antibiotic resistance testing. ASTapp is a project of the [MSF Foundation](https://fondation.msf.fr/en). It aims do develop an application for portable devices helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings. How it works The resistance of a bacteria to antibiotics is tested via [antibiograms](https://en.wikipedia.org/wiki/Antibiotic_sensitivity). ASTapp takes a picture of an antibiobram and provides advices for appropriate patients treatments, using image processing and artificial intelligence. This result is used by clinicians to prescribe the right antibiotics. KNOW MORE    \n"
+	"content": " A free diagnostic tool for antibiotic resistance testing. ASTapp is a project of the MSF Foundation. It aims do develop an application for portable devices helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings. How it works The resistance of a bacteria to antibiotics is tested via [antibiograms](https://en.wikipedia.org/wiki/Antibiotic_sensitivity). ASTapp takes a picture of an antibiobram and provides advices for appropriate patients treatments, using image processing and artificial intelligence. This result is used by clinicians to prescribe the right antibiotics. Know More   Still developing\u0026hellip; We are currently developing ASTapp. A first version will be released soon. If you want to be informed when the app will be ready, please click the follwing button. We will send you only one message. in the meanwhile, have a look at the DEMO vesion: Let me know  \n \n"
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/about/",

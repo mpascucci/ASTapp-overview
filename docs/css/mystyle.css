@@ -69,12 +69,38 @@ img.pictureOnColumn {
     min-width: 200px;
 }
 
-div.bigButton {
-    display: block;
-    color:darkgreen;
-    border:1px solid black;
+.bigButton {
+    background-color:red;
+    color: white !important;
+    border:none !important;
     padding: 0.5em;
-    margin:2em 0 2px 0;
+    margin:0.5em 0 !important;
+    font-weight: bold !important;
+    font-size: 2em !important;
+    opacity: 1;
+    -webkit-transition: all 0.3s !important;
+    -moz-transition: all 0.3s !important;
+    transition: all 0.3s !important;
+}
+.bigButton:hover {
+    opacity: 0.5;
+    color: white !important;
+}
+
+span.ast {
+    color:red;
+    font-style: italic;
     font-weight: bold;
-    font-size: 2em;
+}
+span.app {
+    font-family:'Bradley Hand';
+    font-style: italic;
+}
+span.logoAST {
+    font-size: 3em;
+    color: white !important;
+}
+span.logoapp {
+    font-size: 3em;
+    color: black !important;
 }

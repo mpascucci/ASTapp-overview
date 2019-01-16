@@ -16,7 +16,7 @@ defaultContentLanguageInSubdir= true
   showVisitedLinks = false
   disableBreadcrumb = false
   disableNextPrev = false
-  themeVariant = "green"
+  themeVariant = "red"
   disableLanguageSwitchingButton=true
 
 [outputs]
