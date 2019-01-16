@@ -7,11 +7,12 @@ chapter: false
 draft: false
 ---
 
-### Still developing...
+### <i class="fas fa-hammer"></i> Under development...
 {{% subscribe %}}
 <div style="text-align:center;">
-{{% bigbutton href="/ASTapp-overview/en/letmeknow/" %}}Let me know{{% /bigbutton %}}
+{{% bigbutton href="/ASTapp-overview/en/letmeknow/" %}}Let me know <i class="far fa-envelope"></i>{{% /bigbutton %}}
 </div>
+
 
 ### Demo version
 **1. Download our sample picture**

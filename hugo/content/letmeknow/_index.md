@@ -6,7 +6,7 @@ pre: "<b>5. </b>"
 chapter: false
 draft: false
 ---
-### Still developing...
+### <i class="fas fa-hammer"></i> Under development...
 We are currently developing <span class="ast">AST</span><span class="app">app</span>. A first version will be released soon, stay tuned, leave us your contact!
 
 <!-- <div class="typeform-widget" data-url="https://marpasiemrei44f9.typeform.com/to/Q3sKb7" data-transparency="50" data-hide-headers=true data-hide-footer=true style="width: 100%; height: 500px;"></div>

@@ -3,31 +3,31 @@ title: ASTapp
 date: 2018-01-08
 ---
 
-![logo](/ASTapp-overview/images/header_ASTapp_black.svg)
+<span class="ast logoAST" style="color:red !important">AST</span><span class="app logoapp">app</span>
 
 <h3>A free diagnostic tool for antibiotic resistance testing.</h3>
 
 <div class="pictureOnColumn">
 <div style="margin-right:1em;">
 <span class="ast">AST</span><span class="app">app</span> is a project of the <a href="https://fondation.msf.fr/en">MSF Foundation</a>.
-It aims do develop an application for portable devices helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings.
+It aims too develop an application for portable devices (smartphones/tablets) helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings.
 
-<h3>How it works</h3>
+<h3><i class="fas fa-drafting-compass"></i> How it works</h3>
 
-The resistance of a bacteria to antibiotics is tested via [antibiograms](https://en.wikipedia.org/wiki/Antibiotic_sensitivity).
+The resistance of bacteria to antibiotics is tested via <a href="https://en.wikipedia.org/wiki/Antibiotic_sensitivity">antibiograms</a>.
 
-<span class="ast">AST</span><span class="app">app</span> takes a picture of an antibiobram and provides advices for appropriate patients treatments, using image processing and artificial intelligence.
+<span class="ast">AST</span><span class="app">app</span> takes <b>a picture</b> of an antibiogram and provides advices for appropriate patients treatment, using <b>image processing</b> and <b>artificial intelligence</b>.
 
-This result is used by clinicians to prescribe the right antibiotics.
+Clinicians use these advices to prescribe the right antibiotics.
 
 <div style="text-align:center;">
-{{% bigbutton href="/ASTapp-overview/en/context/" %}}Know More{{% /bigbutton %}}
+{{% bigbutton href="/ASTapp-overview/en/context/" %}}Know More <i class="fas fa-angle-double-right"></i>{{% /bigbutton %}}
 </div>
 
-### Still developing...
+### <i class="fas fa-hammer"></i> Under development...
 {{% subscribe %}}
 <div style="text-align:center;">
-{{% bigbutton href="/ASTapp-overview/en/letmeknow/" %}}Let me know{{% /bigbutton %}}
+{{% bigbutton href="/ASTapp-overview/en/letmeknow/" %}}Let me know <i class="far fa-envelope"></i>{{% /bigbutton %}}
 </div>
 
 
