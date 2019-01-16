@@ -7,8 +7,7 @@ chapter: false
 draft: false
 ---
 
-Some examples of antibiogram reading with
-<span class="ast">AST</span><span class="app">app</span>.
+Some examples of antibiogram reading with {{% ASTapp %}}.
 
 The following table shows some pictures of antibiograms, the reading of the image and the final susceptibility resut.
 

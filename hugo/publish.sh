@@ -21,6 +21,7 @@ else
 		message="auto update"
 fi
 
+hugo
 git add --all
 git commit -a -m "auto update"
 git push

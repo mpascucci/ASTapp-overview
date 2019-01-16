@@ -104,3 +104,8 @@ span.logoapp {
     font-size: 3em;
     color: black !important;
 }
+
+p.creditsHugo {
+    font-size: 70%;
+    text-align: right;
+}
