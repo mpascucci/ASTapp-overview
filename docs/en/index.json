@@ -32,7 +32,7 @@
 	"title": "Image acquisition protocol",
 	"tags": [],
 	"description": "",
-	"content": "The way the pictures of antibiograms are acquired can facilitate the automatic reading and minimize the risk of errors. In order to standardize picture acquisition we have developped a simple image acquisition protocol. This protocol has been designed with simplicity in mind: it can be implemented with cardboard and simple material tipically available in every laboratory.\nimage acquisition setup  "
+	"content": "The way the pictures of antibiograms are taken can facilitate the automatic reading and minimize the risk of errors. In order to standardize picture acquisition we have developped a simple image acquisition protocol. This protocol has been designed with simplicity in mind: it can be implemented with cardboard and simple material tipically available in every laboratory.\nimage acquisition setup  "
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/workflow/",
