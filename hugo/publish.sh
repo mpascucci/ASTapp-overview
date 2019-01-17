@@ -1,5 +1,7 @@
 #!/bin/bash
 
+hugo
+
 echo "=== GIT STATUS ==="
 git status
 echo
@@ -21,7 +23,6 @@ else
 		message="auto update"
 fi
 
-hugo
 git add --all
 git commit -a -m "auto update"
 git push
