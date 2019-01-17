@@ -9,7 +9,7 @@ draft: false
 
 Some examples of antibiogram reading with {{% ASTapp %}}.
 
-The following table shows some pictures of antibiograms, the reading of the image and the final susceptibility resut.
+The following table shows some photos of antibiograms, the reading of each image and the final susceptibility resut.
 
 <div class="imageTable">
     <span class="tableTitle">Picture</span>

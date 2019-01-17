@@ -74,7 +74,7 @@ img.pictureOnColumn {
     color: white !important;
     border:none !important;
     padding: 0.5em;
-    margin:0.5em 0 !important;
+    margin:1em 0 !important;
     font-weight: bold !important;
     font-size: 2em !important;
     opacity: 1;
@@ -87,6 +87,15 @@ img.pictureOnColumn {
     color: white !important;
 }
 
+body {
+    text-align: justify;
+}
+
+span.subtitle {
+    font-size:130%;
+}
+
+/* ASTapp logo */
 span.ast {
     color:red;
     font-style: italic;

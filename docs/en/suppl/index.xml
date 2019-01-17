@@ -17,7 +17,7 @@
       <pubDate>Thu, 10 Jan 2019 16:40:10 +0100</pubDate>
       
       <guid>https://mpascucci.github.io/ASTapp-overview/en/suppl/oneill/</guid>
-      <description>Comparative death projection World mortality projection These plots are taken from thisAMR review.</description>
+      <description>Comparative death projection World mortality projection These plots are taken from this AMR review, in particular from the O’Neill report.</description>
     </item>
     
     <item>
@@ -26,9 +26,10 @@
       <pubDate>Thu, 10 Jan 2019 16:21:14 +0100</pubDate>
       
       <guid>https://mpascucci.github.io/ASTapp-overview/en/suppl/target/</guid>
-      <description>The first beneficiary of this project are the MSF laboratories on the field, represented on the following map.
-Nevertheless, the application will be free and expcially thought for low-resource settings, thereby granting a more egalitarian access to the diagnosis of bacterial infections, worldwide.
-Location of the MSF field laboratories  </description>
+      <description>The first beneficiary of ASTapp are the MSF laboratories on the field, represented in the map in this page.
+Nevertheless, the application will be free and expecially thought for low-resource settings. It could be used everywhere, thereby granting a more egalitarian access to the diagnosis of bacterial infections, worldwide.
+Location of the MSF field laboratories
+  </description>
     </item>
     
     <item>
@@ -38,7 +39,7 @@ Location of the MSF field laboratories  </description>
       
       <guid>https://mpascucci.github.io/ASTapp-overview/en/suppl/comparison/</guid>
       <description> comparison table of existing solutions A fast comparison of some existent solutions for AMR automated/assisted diagnosis.
-  Free Open source offline phone/tablet Image reading Raw results Interpreted results   Commercial robots No No No No Yes Yes Yes   Web apps Yes No No Yes No Yes No   Smartphone apps Yes No Yes Yes No Yes No   AntibiogramJ Yes Yes Yes No Yes Yes No   ASTapp Yes Yes Yes Yes Yes Yes Yes   </description>
+  Free Open source offline phone/tablet Image reading Raw results Interpreted results   Commercial robots No No No No Yes Yes Yes   Web apps Yes No No Yes No Yes No   Smartphone apps Yes No Yes Yes No Yes No   Desktop app Yes Yes Yes No Yes Yes No   ASTapp Yes Yes Yes Yes Yes Yes Yes   </description>
     </item>
     
     <item>
@@ -47,7 +48,7 @@ Location of the MSF field laboratories  </description>
       <pubDate>Thu, 10 Jan 2019 16:40:58 +0100</pubDate>
       
       <guid>https://mpascucci.github.io/ASTapp-overview/en/suppl/imgprotocol/</guid>
-      <description>We have developped a simple image acquisition protocol to allow a more standardized picture acquisition that facilitates the automatic reading and minimizes the risk of errors. This protocol has been designed with simplicity in mind: it can be implemented with cardboard and simple material tipically available in every laboratory.
+      <description>The way the pictures of antibiograms are acquired can facilitate the automatic reading and minimize the risk of errors. In order to standardize picture acquisition we have developped a simple image acquisition protocol. This protocol has been designed with simplicity in mind: it can be implemented with cardboard and simple material tipically available in every laboratory.
 image acquisition setup  </description>
     </item>
     

@@ -5,7 +5,7 @@ weight: 40
 draft: false
 ---
 
-We have developped a simple [image acquisition protocol](https://mpascucci.github.io/ASTapp/) to allow a more standardized picture acquisition that facilitates the automatic reading and minimizes the risk of errors. This protocol has been designed with simplicity in mind: it can be implemented with cardboard and simple material tipically available in every laboratory.
+The way the pictures of antibiograms are acquired can facilitate the automatic reading and minimize the risk of errors. In order to standardize picture acquisition we have developped a simple [image acquisition protocol](https://mpascucci.github.io/ASTapp/). This protocol has been <b>designed with simplicity in mind</b>: it can be implemented with cardboard and simple material tipically available in every laboratory.
 
 <div class="labeledImage">
 <span class="title">image acquisition setup</span>

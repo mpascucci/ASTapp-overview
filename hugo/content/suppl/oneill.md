@@ -12,5 +12,6 @@ draft: false
 ### World mortality projection
 ![death_per_year](https://amr-review.org/sites/default/files/World_Map.jpg?classes=shadow&width=500px)
 
-___
-These plots are taken from this[AMR review](https://amr-review.org/Publications.html).
+---
+These plots are taken from this [AMR review](https://amr-review.org/Publications.html),
+in particular from the [O’Neill report]((https://amr-review.org/sites/default/files/AMR%20Review%20Paper%20-%20Tackling%20a%20crisis%20for%20the%20health%20and%20wealth%20of%20nations_1.pdf)).

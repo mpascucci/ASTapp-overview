@@ -52,7 +52,7 @@ A fast comparison of some existent solutions for AMR automated/assisted diagnosi
     <td class="tg-cmwg">No</td>
   </tr>
   <tr>
-    <td class="tg-1wig"><a href="https://www.ncbi.nlm.nih.gov/pubmed/28391814">AntibiogramJ</a></td>
+    <td class="tg-1wig"><a href="https://www.ncbi.nlm.nih.gov/pubmed/28391814">Desktop app</a></td>
     <td class="tg-d78e">Yes</td>
     <td class="tg-d78e">Yes</td>
     <td class="tg-d78e">Yes</td>

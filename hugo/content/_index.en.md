@@ -10,13 +10,13 @@ date: 2018-01-08
 <div class="pictureOnColumn">
 <div style="margin-right:1em;">
 {{% ASTapp %}} is a project of the <a href="https://fondation.msf.fr/en">MSF Foundation</a>.
-It aims too develop an application for portable devices (smartphones/tablets) helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings.
+It aims too develop an application for portable devices (smartphones/tablets) helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in <a href="http://courses.washington.edu/bioeteam/400_DesignHighLowResource2014.pdf">low-resource settings</a>.
 
 <h3><i class="fas fa-drafting-compass"></i> How it works</h3>
 
 The resistance of bacteria to antibiotics is tested via <a href="https://en.wikipedia.org/wiki/Antibiotic_sensitivity">antibiograms</a>.
 
-{{% ASTapp %}} takes <b>a picture</b> of an antibiogram and provides advices for appropriate patients treatment, using <b>image processing</b> and <b>artificial intelligence</b>.
+{{% ASTapp %}} takes the <b>picture of an antibiogram</b> and provides advices for appropriate patients treatment, using <b>image processing</b> and <b>artificial intelligence</b>.
 
 Clinicians use these advices to prescribe the right antibiotics.
 
