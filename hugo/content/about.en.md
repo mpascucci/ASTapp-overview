@@ -13,5 +13,5 @@ date: 2018-01-08
 - Development: [Marco Pascucci](mailto:marco.pascucci@paris.msf.org)
 
 ---
-<p class="creditsHugo"><i class="far fa-copyright"> 2019 - Marco Pascucci<br>
+<p class="creditsHugo"><i class="far fa-copyright"></i> 2019 - Marco Pascucci - MSF Foundation<br>
 Website built with <a href="https://github.com/matcornic/hugo-theme-learn"><i class="fas fa-heart"></i></a> from <a href="http://getgrav.org">Grav</a> and <a href="http://gohugo.io/">Hugo</a></p>
