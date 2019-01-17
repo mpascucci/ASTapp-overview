@@ -36,7 +36,7 @@
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/workflow/",
-	"title": "App Workflow",
+	"title": "Screenshots",
 	"tags": [],
 	"description": "",
 	"content": " Application home The user enters the relevant data for the analysis, then takes a picture of the antibiogram. Petri dish selection The analysis begins, with a step by step validation process, where the app asks the user to validate or adjust the automatic results. Here, the app finds the petri dish in the picture. Find Antibiotic disks Then the app finds the antibiotic bellets (small white disks). If something went wrong, the user can edit and adjust the result (in zoomed mode). \nRead antibiotic names The app reads the name of the antibiotics, printed on each white disk. \nMeasure the inhibition diameters The app measures the \u0026ldquo;inhibition diameters\u0026rdquo;, the size of those zones where the bacteria did not grow in proximity of an effective antibiotic. Once again, the user can adjust the automatic measurements. \nGet the interpreted results With the previously meausred diameters are converted in Resistance information. The app show this result to the user, together with its interpretation: a set of rules is applied to the measured result to extrapolate other resistances. "
@@ -53,7 +53,7 @@
 	"title": "Try ASTapp",
 	"tags": [],
 	"description": "",
-	"content": "  Under development\u0026hellip; We are currently developing ASTapp. A first version will be released soon. If you want to be informed when the app will be ready, please click the follwing button. We will send you only one message. in the meanwhile, have a look at the DEMO vesion: Let me know   \nDemo version 1. Download our sample picture\nWe have selected the image of an antibiogram you can use to test the application\nThe species of the bacteria in this antibiogram is Escherichia Coli\n Download sample image  2. Open ASTapp\n Please use Google Chrome\n See the workflow section for help.\n Run ASTapp   click on the camera icon and upload the sample image to start the analysis.\n  "
+	"content": "  Under development\u0026hellip; We are currently developing ASTapp. A first version will be released soon. If you want to be informed when the app will be ready, please click the follwing button. We will send you only one message. in the meanwhile, have a look at the DEMO version: Let me know   \nDemo version 1. Download our sample picture\nWe have selected the image of an antibiogram you can use to test the application\nThe species of the bacteria in this antibiogram is Escherichia Coli\n Download sample image  2. Open ASTapp\n Please use Google Chrome\n See the workflow section for help.\n Run ASTapp   click on the camera icon and upload the sample image to start the analysis.\n  "
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/suppl/",
@@ -74,7 +74,7 @@
 	"title": "ASTapp",
 	"tags": [],
 	"description": "",
-	"content": " ASTapp\nA free diagnostic tool for antibiotic resistance testing. ASTapp is a project of the MSF Foundation. It aims too develop an application for portable devices (smartphones/tablets) helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings.  How it works The resistance of bacteria to antibiotics is tested via antibiograms. ASTapp takes a picture of an antibiogram and provides advices for appropriate patients treatment, using image processing and artificial intelligence. Clinicians use these advices to prescribe the right antibiotics. Learn More     Under development\u0026hellip; We are currently developing ASTapp. A first version will be released soon. If you want to be informed when the app will be ready, please click the follwing button. We will send you only one message. in the meanwhile, have a look at the DEMO vesion: Let me know   \n \n"
+	"content": " ASTapp\nA free diagnostic tool for antibiotic resistance testing. ASTapp is a project of the MSF Foundation. It aims too develop an application for portable devices (smartphones/tablets) helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings.  How it works The resistance of bacteria to antibiotics is tested via antibiograms. ASTapp takes a picture of an antibiogram and provides advices for appropriate patients treatment, using image processing and artificial intelligence. Clinicians use these advices to prescribe the right antibiotics. Learn More     Under development\u0026hellip; We are currently developing ASTapp. A first version will be released soon. If you want to be informed when the app will be ready, please click the follwing button. We will send you only one message. in the meanwhile, have a look at the DEMO version: Let me know   \n \n"
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/about/",

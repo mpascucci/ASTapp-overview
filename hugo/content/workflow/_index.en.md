@@ -1,5 +1,5 @@
 ---
-title: "App Workflow"
+title: "Screenshots"
 date: 2019-01-08
 weight: 100
 pre: "<b>1. </b>"
