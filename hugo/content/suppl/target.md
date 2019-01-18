@@ -15,8 +15,7 @@ Nevertheless, the application will be free and expecially thought for low-resour
 Location of the MSF field laboratories
 {{% /labeledimage %}}
 
-Compare with the countries that adhere to HWO's Global Antimicrobial Resistance Surveillance System (GLASS), the aim of which is to support global surveillance and research in order to strengthen the evidence base on antimicrobial resistance (AMR) and help informing decision-making and drive national, regional, and global actions.
-
-MSF operates in countries where data is poor or missing
+Compare with the countries that adhere to HWO's Global Antimicrobial Resistance Surveillance System (GLASS), the aim of which is to support global surveillance, research and global actions.
+MSF operates in countries where information is poor or missing and {{% ASTapp %}} can make data collection easy.
 
 ![GALSS](https://www.who.int/gho/glass/glass_001.png)

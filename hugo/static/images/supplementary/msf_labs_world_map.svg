@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="960.3051"
-     inkscape:cy="302.26728"
+     inkscape:zoom="1.4"
+     inkscape:cx="356.92249"
+     inkscape:cy="484.29228"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1539,10 +1539,10 @@
       <text
          id="text4880"
          y="812.77795"
-         x="257.2619"
+         x="288.54852"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-19.58000183px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.00000191px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.00000191px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;text-anchor:middle;text-align:center"
            y="812.77795"
            x="257.2619"
            id="tspan4882"
@@ -1689,14 +1689,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-19.58000183px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="250.09175"
+         x="365.99753"
          y="812.77795"
          id="text5210"><tspan
            sodipodi:role="line"
            id="tspan5212"
            x="250.09175"
            y="812.77795"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.00000191px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px">Lebanon/Bagdad</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.00000191px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;text-anchor:middle;text-align:center">Lebanon/Bagdad</tspan></text>
     </g>
     <rect
        style="fill:#ffffff;fill-opacity:0.43684214;stroke:none;stroke-width:0.86930728"
