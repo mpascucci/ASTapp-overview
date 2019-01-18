@@ -42,5 +42,5 @@ If something went wrong, the user can edit and adjust the result (with a zoomed 
 </div>
 
 ## Get the interpreted results
-With the previously meausred diameters are converted in resistance information. {{% ASTapp %}} shows this result to the user, together with its interpretation: a set of rules is applied to the measured result to check the overall coherence and extrapolate  resistances to other (non-tested) antibiotics.
+The diameters are converted in resistance information. {{% ASTapp %}} shows this result to the user, together with its interpretation: a set of rules is applied to the measured result to check the overall coherence and extrapolate  resistances to other (non-tested) antibiotics.
 ![petri-dish](/ASTapp-overview/images/workflow/workflow_13.png?width=30pc "Petri Dish")

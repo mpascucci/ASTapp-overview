@@ -10,7 +10,7 @@ date: 2018-01-08
 <div class="pictureOnColumn">
 <div style="margin-right:1em;">
 {{% ASTapp %}} is a project of the <a href="https://fondation.msf.fr/en">MSF Foundation</a>.
-It aims too develop an application for portable devices (smartphones/tablets) helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in <a href="http://courses.washington.edu/bioeteam/400_DesignHighLowResource2014.pdf">low-resource settings</a>.
+It aims to develop an application for portable devices (smartphones/tablets) helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in <a href="http://courses.washington.edu/bioeteam/400_DesignHighLowResource2014.pdf">low-resource settings</a>.
 
 <h3><i class="fas fa-drafting-compass"></i> How it works</h3>
 

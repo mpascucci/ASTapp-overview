@@ -14,7 +14,7 @@ The following table shows some photos of antibiograms, the reading of each image
 <div class="imageTable">
     <span class="tableTitle">Picture</span>
     <span class="tableTitle">Measure</span>
-    <span class="tableTitle">Resutls</span>
+    <span class="tableTitle">Results</span>
 </div>
 <div class="imageTable">
     <img class="inTable" src="/ASTapp-overview/images/examples/ex1/img.png">

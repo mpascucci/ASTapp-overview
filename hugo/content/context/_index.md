@@ -36,7 +36,7 @@ The raw result of an antibiogram <b>needs to be interpreted by a microbiologist<
 {{% ASTapp %}} allows the interpretation of an antibiogram by tacking a picture of it with a smarthpone camera.
 
 {{% ASTapp %}} addresses several of the strategic objectives identified by the <b>[World Health organization (WHO)](https://www.who.int/antimicrobial-resistance/en/)</b> as a <b>[global action plan](https://www.who.int/antimicrobial-resistance/global-action-plan/en/)</b> to tackle Antimicrobial resistance.
-By giving a broad and open access to a better diagnosis, ourproject can:
+By giving a broad and open access to a better diagnosis, our project can:
 
 - "strengthen knowledge through surveillance and research"
 
