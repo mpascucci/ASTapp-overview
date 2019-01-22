@@ -9,7 +9,7 @@ date: 2018-01-08
 ![Fondation MSF](/ASTapp-overview/images/Logo FMSF_crop.png?height=15pc)
 
 ### Contacts:
-<!-- - Director: [Clara Nordon](mailto:clara.nordon@paris.msf.org) -->
+- Director: [Clara Nordon](mailto:clara.nordon@paris.msf.org)
 - Development: [Marco Pascucci](mailto:astapp.info@gmail.com)
 
 ---
