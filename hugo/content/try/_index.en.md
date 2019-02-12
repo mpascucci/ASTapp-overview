@@ -31,7 +31,7 @@ The species of the bacteria in this antibiogram is *Escherichia Coli*
 
 - See the [workflow](../workflow) section for help.
 
-- Run {{% button href="https://stat.genopole.cnrs.fr/ASTweb" %}}{{% ASTapp %}}{{% /button %}}
+- Run {{% button href="http://stat.genopole.cnrs.fr/ASTweb" %}}{{% ASTapp %}}{{% /button %}}
 
 - Click on the camera icon and upload the sample image to start the analysis.
 
