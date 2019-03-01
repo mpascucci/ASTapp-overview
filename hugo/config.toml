@@ -3,7 +3,7 @@ languageCode = "en-US"
 defaultContentLanguage = "en"
 publishDir = "../docs"
 
-title = "Hugo Learn Documentation"
+title = "ASTapp overview"
 theme = "hugo-theme-learn"
 themesdir = "./themes"
 metaDataFormat = "yaml"
