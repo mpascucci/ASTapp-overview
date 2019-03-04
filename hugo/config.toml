@@ -24,7 +24,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "A free diagnostic tool for antibiotic resistance testing."
 weight = 1
 languageName = "English"
 
