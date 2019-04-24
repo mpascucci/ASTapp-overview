@@ -53,7 +53,7 @@
 	"title": "Try ASTapp",
 	"tags": [],
 	"description": "",
-	"content": "  Under development\u0026hellip; We are currently developing ASTapp. A first version will be released during 2019. If you want to be informed when the app will be ready, please click the following button. We will send you only one message. in the meanwhile, have a look at the DEMO version. Let me know   \nDemo version 1. Download our sample picture\nWe have selected the image of an antibiogram you can use to test the application\nThe species of the bacteria in this antibiogram is Escherichia Coli\n Download sample image  2. Open ASTapp\n Please use Google Chrome\n See the workflow section for help.\n Run ASTapp   Click on the camera icon and upload the sample image to start the analysis.\n  "
+	"content": "  Under development\u0026hellip; We are currently developing ASTapp. A first version will be released during 2019. If you want to be informed when the app will be ready, please click the following button. We will send you only one message. Let me know   \n"
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/suppl/",
@@ -74,7 +74,7 @@
 	"title": "ASTapp",
 	"tags": [],
 	"description": "",
-	"content": " ASTapp\nA free diagnostic tool for antibiotic resistance testing. ASTapp is a project of the MSF Foundation. It aims to develop an application for portable devices (smartphones/tablets) helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings.  How it works The resistance of bacteria to antibiotics is tested via antibiograms. ASTapp takes the picture of an antibiogram and provides advices for appropriate patients treatment, using image processing and artificial intelligence. Clinicians use these advices to prescribe the right antibiotics. Learn More     Under development\u0026hellip; We are currently developing ASTapp. A first version will be released during 2019. If you want to be informed when the app will be ready, please click the following button. We will send you only one message. in the meanwhile, have a look at the DEMO version. Let me know   \n \n"
+	"content": " ASTapp\nA free diagnostic tool for antibiotic resistance testing. ASTapp is a project of the MSF Foundation. It aims to develop an application for portable devices (smartphones/tablets) helping to fight antimicrobial resistance (AMR). It is expecially designed to be used in low-resource settings.  How it works The resistance of bacteria to antibiotics is tested via antibiograms. ASTapp takes the picture of an antibiogram and provides advices for appropriate patients treatment, using image processing and artificial intelligence. Clinicians use these advices to prescribe the right antibiotics. Learn More     Under development\u0026hellip; We are currently developing ASTapp. A first version will be released during 2019. If you want to be informed when the app will be ready, please click the following button. We will send you only one message. Let me know   \n \n"
 },
 {
 	"uri": "https://mpascucci.github.io/ASTapp-overview/en/about/",
